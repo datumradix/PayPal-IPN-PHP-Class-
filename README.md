@@ -15,7 +15,8 @@ PHP Paypal Payment & IPN Integration Class
 
 	  DESCRIPTION:
 	 
-	       NOTE: This has been modified from the work of www.micahcarrick.com, the ipn method now uses cURL in place of fsockopen
+	       NOTE: This has been modified from the work of www.micahcarrick.com, 
+	       The ipn method now uses cURL in place of fsockopen
 	 
 	       This file provides a neat and simple method to interface with paypal and
 	       The paypal Instant Payment Notification (IPN) interface.  This file is
